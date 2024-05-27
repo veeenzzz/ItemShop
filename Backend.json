@@ -9,16 +9,16 @@
     "price": 300
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_104_FuzzyBear"],
-    "price": 1200
+    "itemGrants": ["AthenaGlider:Glider_Warthog"],
+    "price": 1500
   },
   "daily4": {
     "itemGrants": ["AthenaDance:EID_Fresh"],
     "price": 3500
   },
   "daily5": {
-    "itemGrants": ["AthenaDance:EID_Floss"],
-    "price": 5000
+    "itemGrants": ["AthenaDance:EID_ArtGiant"],
+    "price": 500
   },
   "daily6": {
     "itemGrants": ["AthenaMusicPack:MusicPack_039_Envy"],
